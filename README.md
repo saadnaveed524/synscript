@@ -1,0 +1,2 @@
+# synscript
+SYN python script
